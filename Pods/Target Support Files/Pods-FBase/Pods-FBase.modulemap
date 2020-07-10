@@ -1,0 +1,6 @@
+framework module Pods_FBase {
+  umbrella header "Pods-FBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
